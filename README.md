@@ -1,4 +1,4 @@
 # simple-modal
    simplw modal using HTML, CSS, JS
    
-###### live version: 
+ https://hossam-khalaf.github.io/simple-modal
